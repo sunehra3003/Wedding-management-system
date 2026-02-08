@@ -1,0 +1,2 @@
+This is a wedding management system where client can prepere there wedding planning , select vanue, select saloon packages. Admin can see the orders and add florist, vanue, saloon, bakery , decorator to their list and vanue manager can add see the booking of the vanue. he can accept or reject the booking 
+To add the database i have sent csv file of the table. you can create project in supabase and make the table.. also added backup file
