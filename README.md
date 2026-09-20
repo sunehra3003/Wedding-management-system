@@ -1,4 +1,3 @@
-Got it — here's the README without the screenshots section:
 
 ---
 
